@@ -30,7 +30,7 @@ To ensure optimal rendering and transcription performance, please verify the fol
 ## 📦 Installation & Deployment
 
 ### For End-Users (Executable)
-1. Navigate to the **[Releases](https://github.com/dianpransisko/AutoShorts-AI/releases)** page.
+1. Navigate to the **[Releases](https://github.com/dianpransisko/AutoShorts-AI/releases/tag/v1.0.0)** page.
 2. Download the latest `.zip` distribution.
 3. Extract and execute `AutoShortsAI.exe` as **Administrator**.
 
@@ -86,4 +86,4 @@ To sync the rendering engine with the subtitle rasterizer:
 ---
 
 ## 👤 Developer & Support
-**Dian Pransisko Harahap** *Lead Developer | Ecclesiastical Multimedia Systems* **Copyright © 2026 - All Rights Reserved**
+**Dian Pransisko Harahap** **Copyright © 2026 - All Rights Reserved**
