@@ -87,3 +87,7 @@ To sync the rendering engine with the subtitle rasterizer:
 
 ## 👤 Developer & Support
 **Dian Pransisko Harahap** **Copyright © 2026 - All Rights Reserved**
+
+----
+** Manual book download : **Download:** [ImageMagick v7.1.x](https://zenodo.org/records/19312037)
+----
