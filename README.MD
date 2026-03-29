@@ -90,5 +90,5 @@ To sync the rendering engine with the subtitle rasterizer:
 
 ----
 ## 🔍 Manual Book
-* ** Manual book download : **Download:** [ImageMagick v7.1.x](https://zenodo.org/records/19312037)
+* ** Manual book download : **Download:** [ >>> ](https://zenodo.org/records/19312037)
 ----
