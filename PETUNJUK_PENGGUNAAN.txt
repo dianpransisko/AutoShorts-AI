@@ -1,0 +1,3 @@
+1. Masukkan ffmpeg.exe ke folder bin
+2. Aktifkan WebSocket OBS
+3. Tekan Space di OBS untuk simpan klip.

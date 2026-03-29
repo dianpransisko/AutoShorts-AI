@@ -1,0 +1,19 @@
+# --- Core UI ---
+customtkinter
+pillow
+python-dotenv
+
+# --- Video & Audio Processing ---
+moviepy==1.0.3
+decorator==4.4.2
+proglog
+imageio
+imageio-ffmpeg
+
+# --- AI Subtitling ---
+faster-whisper
+huggingface-hub
+tokenizers
+
+# --- Utils ---
+numpy

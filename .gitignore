@@ -1,0 +1,47 @@
+# --- Python Specific ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+ENV/
+env/
+
+# --- PyInstaller & Bundling ---
+build/
+dist/
+*.spec
+
+# --- Inno Setup ---
+# Jangan unggah hasil installer final ke Git
+installer_result/
+Output/
+
+# --- Project Specific Binaries ---
+bin/ffmpeg.exe
+bin/ffprobe.exe
+imagemagick/
+_internal/
+
+# --- Application Data & Logs ---
+temp/
+outputs/
+*.mp4
+*.wav
+*.json
+*.log
+
+# --- Environment & Secrets ---
+.env
+
+# --- IDE Specific ---
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+models/
+lib/models/
+*.bin
